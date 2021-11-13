@@ -1,2 +1,1 @@
-# C-28.
-e
+# Project Template 28
